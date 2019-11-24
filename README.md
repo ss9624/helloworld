@@ -1,2 +1,2 @@
 # helloworld
-  hello. i'm a learning programming.
+  hello. i'm learning programming.
